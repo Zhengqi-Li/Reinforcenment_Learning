@@ -7,3 +7,4 @@
 
 * https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
 * https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
+* https://en.wikipedia.org/wiki/Reinforcement_learning
