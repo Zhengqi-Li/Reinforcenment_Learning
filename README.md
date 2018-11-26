@@ -5,4 +5,5 @@
 
 强化学习和标准的监督式学习之间的区别在于，它并不需要出现正确的输入/输出对，也不需要精确校正次优化的行为。强化学习更加专注于在线规划，需要在探索（在未知的领域）和遵从（现有知识）之间找到平衡。强化学习中的“探索-遵从”的交换，在多臂老虎机问题和有限MDP中研究得最多。
 
-https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+* https://morvanzhou.github.io/tutorials/machine-learning/reinforcement-learning/
+* https://medium.freecodecamp.org/an-introduction-to-reinforcement-learning-4339519de419
